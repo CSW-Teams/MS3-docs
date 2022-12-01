@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="kUrPDSCRp1jmMWpX8yrX" name="Pagina-1">
-        <mxGraphModel dx="912" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1963" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -14,7 +14,7 @@
                     <mxGeometry width="929" height="699.4823529411765" as="geometry"/>
                 </mxCell>
                 <mxCell id="TS6xKIsJITg3z22UG14p-48" value="" style="group" parent="TS6xKIsJITg3z22UG14p-49" vertex="1" connectable="0">
-                    <mxGeometry x="460" y="354" width="535" height="293" as="geometry"/>
+                    <mxGeometry x="461" y="347" width="535" height="293" as="geometry"/>
                 </mxCell>
                 <mxCell id="TS6xKIsJITg3z22UG14p-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="TS6xKIsJITg3z22UG14p-48" vertex="1">
                     <mxGeometry width="380" height="190" as="geometry"/>
@@ -62,7 +62,7 @@
                     <mxGeometry x="350" y="91" width="10" height="8" as="geometry"/>
                 </mxCell>
                 <mxCell id="TS6xKIsJITg3z22UG14p-44" value="" style="group" parent="TS6xKIsJITg3z22UG14p-48" vertex="1" connectable="0">
-                    <mxGeometry x="355" y="102" width="180" height="191" as="geometry"/>
+                    <mxGeometry x="355" y="98" width="180" height="191" as="geometry"/>
                 </mxCell>
                 <mxCell id="TS6xKIsJITg3z22UG14p-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="TS6xKIsJITg3z22UG14p-44" vertex="1">
                     <mxGeometry width="180" height="191" as="geometry"/>
@@ -131,7 +131,13 @@
                     <mxGeometry x="310" y="560" width="150" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="TS6xKIsJITg3z22UG14p-51" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=0;fontSize=18;strokeColor=none;" parent="1" vertex="1">
-                    <mxGeometry x="590" y="350" width="440" height="60" as="geometry"/>
+                    <mxGeometry x="550" y="360" width="440" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Esprimi Scocciature - Giornate" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=51;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="280" width="1270" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="MS3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=34;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="280" width="80" height="70" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
