@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/home/stack1/IdeaProjects/MS3/src/main/java/org/cswteams/ms3</OriginalElement>
+  <nodes>
+    <node x="4364.535864883592" y="2098.4966469402907">org.cswteams.ms3.control.scocciatura.ControllerScocciatura</node>
+    <node x="2546.460554377696" y="1166.001740082371">org.cswteams.ms3.control.servizi.IControllerServizi</node>
+    <node x="8106.549447616496" y="1223.2597788661437">org.cswteams.ms3.control.categorie.ControllerCategorie</node>
+    <node x="8134.499885998608" y="938.6741913210524">org.cswteams.ms3.control.giustificaForzatura.ControllerGiustificaForzatura</node>
+    <node x="1323.4127948655141" y="1413.1647018480676">org.cswteams.ms3.control.categorieUtente.ControllerCategorieUtente</node>
+    <node x="1495.466208495732" y="2749.8358627193998">org.cswteams.ms3.dao.ScheduleDao</node>
+    <node x="6901.361732009126" y="981.6048976944711">org.cswteams.ms3.dao.ConfigVincoloMaxPeriodoConsecutivoDao</node>
+    <node x="2708.9138284562628" y="637.7425242541879">org.cswteams.ms3.exception.ViolatedConstraintException</node>
+    <node x="3777.071663867158" y="938.3515285786723">org.cswteams.ms3.rest.CategoriaUtenteRestEndpoint</node>
+    <node x="3406.4802742974252" y="2766.846938852391">org.cswteams.ms3.Ms3Application</node>
+    <node x="9084.49940153246" y="3017.9614432680637">org.cswteams.ms3.dto.UtenteDTO</node>
+    <node x="7326.738267478557" y="2940.940529548034">org.cswteams.ms3.entity.Categoria</node>
+    <node x="8523.89728626928" y="2621.5034106002527">org.cswteams.ms3.enums.TipologiaTurno</node>
+    <node x="2554.536788311992" y="2471.374593957881">org.cswteams.ms3.dao.ScocciaturaDao</node>
+    <node x="6365.114622364097" y="2045.5884565838458">org.cswteams.ms3.enums.AttoreEnum</node>
+    <node x="4753.942175051871" y="371.9169071190771">org.cswteams.ms3.exception.UnableToBuildScheduleException</node>
+    <node x="8735.052805159825" y="3025.1430496141247">org.cswteams.ms3.entity.RuoloNumero</node>
+    <node x="7189.010600200356" y="1788.8631612902323">org.cswteams.ms3.config.ApplicationStartup</node>
+    <node x="6671.738249751429" y="433.58324896362535">org.cswteams.ms3.control.assegnazioneTurni.IControllerAssegnazioneTurni</node>
+    <node x="1066.8047827080513" y="2345.1743632473676">org.cswteams.ms3.dao.UserCategoryPolicyDao</node>
+    <node x="2358.502698350321" y="840.624640369891">org.cswteams.ms3.entity.scocciature.Scocciatura</node>
+    <node x="3639.096238110488" y="2507.5039269085255">org.cswteams.ms3.rest.ScheduloRestEndpoint</node>
+    <node x="6298.7855066954" y="2512.1252574177315">org.cswteams.ms3.control.utils.MappaTurni</node>
+    <node x="6083.195907548852" y="579.606449052108">org.cswteams.ms3.exception.ViolatedVincoloRuoloNumeroException</node>
+    <node x="3402.285509715727" y="1863.866214230727">org.cswteams.ms3.dto.CategoriaUtenteDTO</node>
+    <node x="5464.691207257866" y="2799.2572678462925">org.cswteams.ms3.control.utils.MappaHolidays</node>
+    <node x="2476.055052926773" y="3511.053805561428">org.cswteams.ms3.control.utils.Country</node>
+    <node x="8747.849397910299" y="2140.8198768370294">org.cswteams.ms3.control.utils.MappaAssegnazioneTurni</node>
+    <node x="3635.9137828267844" y="60.22204275450963">org.cswteams.ms3.entity.vincoli.VincoloMaxPeriodoConsecutivo</node>
+    <node x="6375.175404728825" y="1017.0608469596782">org.cswteams.ms3.dto.ModificaAssegnazioneTurnoDTO</node>
+    <node x="3876.5864707604023" y="3388.8360663645162">org.cswteams.ms3.entity.Utente</node>
+    <node x="1617.659969370879" y="2623.7298209351075">org.cswteams.ms3.dao.DesiderataDao</node>
+    <node x="1893.1702236329188" y="1395.7291950253848">org.cswteams.ms3.control.utente.IControllerUtente</node>
+    <node x="6739.0046198078935" y="2868.5252251501192">org.cswteams.ms3.dao.HolidayDao</node>
+    <node x="7675.905690240541" y="2585.6818370602623">org.cswteams.ms3.entity.vincoli.ConfigVincoli</node>
+    <node x="1084.6739725886007" y="2648.603828383054">org.cswteams.ms3.rest.UtentiRestEndpoint</node>
+    <node x="4009.5081383768443" y="3000.97122418298">org.cswteams.ms3.entity.Config</node>
+    <node x="4386.51050733521" y="1278.163312740672">org.cswteams.ms3.dto.GenerazioneScheduloDTO</node>
+    <node x="8254.417544267119" y="2458.4072828839694">org.cswteams.ms3.dao.ConfigVincoliDao</node>
+    <node x="2728.411392794276" y="3010.8311051188334">org.cswteams.ms3.dao.ConfigDao</node>
+    <node x="6393.796511688241" y="1614.0096908893104">org.cswteams.ms3.enums.HolidayCategory</node>
+    <node x="8328.080965584988" y="2165.1240230950825">org.cswteams.ms3.dao.AssegnazioneTurnoDao</node>
+    <node x="8543.099704800221" y="1264.4386430062054">org.cswteams.ms3.control.preferenze.HolidayController</node>
+    <node x="4343.808252127132" y="899.9415257483874">org.cswteams.ms3.control.login.IControllerLogin</node>
+    <node x="3649.1780367560295" y="546.608048418336">org.cswteams.ms3.control.desiderata.IControllerDesiderata</node>
+    <node x="5919.4902309802" y="297.2638187384791">org.cswteams.ms3.entity.vincoli.VincoloUbiquità</node>
+    <node x="6744.373199760623" y="1566.8304799954967">org.cswteams.ms3.entity.CategoriaUtente</node>
+    <node x="2148.933692660775" y="381.7311651438215">org.cswteams.ms3.entity.vincoli.VincoloTipologieTurniContigue</node>
+    <node x="3245.5721460425225" y="2428.4411617179812">org.cswteams.ms3.rest.TurnoRestEndpoint</node>
+    <node x="5822.064568917531" y="2783.88306771765">org.cswteams.ms3.dto.LoginDTO</node>
+    <node x="4722.3761563306625" y="729.8160930533786">org.cswteams.ms3.control.turni.IControllerTurni</node>
+    <node x="4168.7719234300175" y="164.8083290842735">org.cswteams.ms3.control.scheduler.ControllerScheduler</node>
+    <node x="2534.5799141829407" y="1508.4185062873003">org.cswteams.ms3.rest.GiustificazioneForzaturaEndpoint</node>
+    <node x="9411.043981635627" y="2132.70363243133">org.cswteams.ms3.rest.HolidayRestEndpoint</node>
+    <node x="5491.3652810379535" y="955.9298943084625">org.cswteams.ms3.entity.UserScheduleState</node>
+    <node x="3157.9513722609618" y="1643.2558158466913">org.cswteams.ms3.entity.UserCategoryPolicyValue</node>
+    <node x="5497.07697784111" y="445.3179284137766">org.cswteams.ms3.control.scheduler.IControllerScheduler</node>
+    <node x="4134.522073121279" y="2550.4535892844956">org.cswteams.ms3.dto.PasswordDTO</node>
+    <node x="8894.567712231654" y="2312.367783266166">org.cswteams.ms3.control.scheduler.ScheduleBuilder</node>
+    <node x="7274.897249086121" y="2324.583510839165">org.cswteams.ms3.dto.ScheduloDTO</node>
+    <node x="1920.1521252351074" y="1889.4754835361473">org.cswteams.ms3.entity.ViolatedConstraintLogEntry</node>
+    <node x="8342.547901730151" y="1666.077265562551">org.cswteams.ms3.entity.GiorniDellaSettimanaBitMask</node>
+    <node x="566.9502644509466" y="2433.3096077579494">org.cswteams.ms3.rest.VincoloRestEndpoint</node>
+    <node x="2985.3840759739005" y="2985.083775009565">org.cswteams.ms3.dao.UtenteDao</node>
+    <node x="2221.11775547072" y="1162.9285863637429">org.cswteams.ms3.control.preferenze.ICalendarServiceManager</node>
+    <node x="-223.6291799417861" y="1782.3548007357676">org.cswteams.ms3.control.vincoli.ControllerVincolo</node>
+    <node x="5457.213463399307" y="1682.5666891626856">org.cswteams.ms3.dto.TurnoDTO</node>
+    <node x="1794.0579459337237" y="842.2778266907542">org.cswteams.ms3.entity.scocciature.ScocciaturaVacanza</node>
+    <node x="4707.338317071233" y="1017.7218268730805">org.cswteams.ms3.rest.AssegnazioneTurnoRestEndpoint</node>
+    <node x="3412.929841316199" y="2930.3396875202666">org.cswteams.ms3.entity.Desiderata</node>
+    <node x="424.24263789221527" y="2021.2343109870903">org.cswteams.ms3.dao.VincoloTipologieTurniContigueDao</node>
+    <node x="2208.029048066567" y="2635.0418890374967">org.cswteams.ms3.control.utils.MappaServizio</node>
+    <node x="6030.05504531617" y="810.6978126515413">org.cswteams.ms3.control.cambiaPassword.ControllerPassword</node>
+    <node x="3849.2095743714617" y="1354.3163318349295">org.cswteams.ms3.dto.AssegnazioneTurnoDTO</node>
+    <node x="3175.322922451004" y="825.792442258805">org.cswteams.ms3.control.desiderata.ControllerDesiderata</node>
+    <node x="3042.059917944039" y="2652.2753022258485">org.cswteams.ms3.dao.LiberatoriaDao</node>
+    <node x="7826.004386907249" y="1457.7125530581711">org.cswteams.ms3.entity.UserCategoryPolicy</node>
+    <node x="1987.435606701497" y="2512.4609138873884">org.cswteams.ms3.exception.TurnoException</node>
+    <node x="5085.187268705326" y="518.2245739860663">org.cswteams.ms3.exception.NotEnoughFeasibleUsersException</node>
+    <node x="3731.675123100133" y="2794.568870237591">org.cswteams.ms3.dao.ServizioDao</node>
+    <node x="7368.36293555398" y="1508.938082058531">org.cswteams.ms3.exception.CalendarServiceException</node>
+    <node x="2793.7822422132876" y="1869.437312352758">org.cswteams.ms3.control.utils.MappaCategoriaUtente</node>
+    <node x="1362.1329033294473" y="2220.3369719484585">org.cswteams.ms3.control.utils.MappaDesiderata</node>
+    <node x="2791.492453278928" y="826.1065459016432">org.cswteams.ms3.entity.scocciature.ScocciaturaDesiderata</node>
+    <node x="2658.511471403912" y="2572.0061832420806">org.cswteams.ms3.dto.ServizioDTO</node>
+    <node x="5358.063321240685" y="-6.285169689299437">org.cswteams.ms3.entity.vincoli.Vincolo</node>
+    <node x="7929.1816670594235" y="2050.866171804334">org.cswteams.ms3.rest.ServizioRestEndpoint</node>
+    <node x="4833.056782307396" y="1734.1332579904697">org.cswteams.ms3.rest.DesiderataRestEndpoint</node>
+    <node x="96.35974265046548" y="2109.444116892445">org.cswteams.ms3.entity.GiustificazioneForzaturaVincoli</node>
+    <node x="4631.842358848466" y="3495.5884662128515">org.cswteams.ms3.entity.Liberatoria</node>
+    <node x="4441.063274283068" y="3004.408627541912">org.cswteams.ms3.entity.vincoli.ContestoVincolo</node>
+    <node x="1450.2354067897809" y="949.0653898833391">org.cswteams.ms3.entity.vincoli.VincoloMaxOrePeriodo</node>
+    <node x="2212.812235453358" y="2836.4616085087914">org.cswteams.ms3.control.utils.MappaUtenti</node>
+    <node x="8214.418202112709" y="3243.2474906064185">org.cswteams.ms3.entity.Schedule</node>
+    <node x="5948.366914393277" y="1842.219465241598">org.cswteams.ms3.rest.CountryRestEndpoint</node>
+    <node x="4552.532816534489" y="2723.436416151636">org.cswteams.ms3.rest.LoginRestEndpoint</node>
+    <node x="4963.184613263791" y="3126.7591869338785">org.cswteams.ms3.dto.CategoriaDTO</node>
+    <node x="5108.953290096066" y="711.0019604498576">org.cswteams.ms3.control.turni.ControllerTurni</node>
+    <node x="7646.803154197083" y="464.6394327034883">org.cswteams.ms3.control.categorie.IControllerCategorie</node>
+    <node x="6545.324164074516" y="828.5106758367173">org.cswteams.ms3.control.cambiaPassword.IControllerPassword</node>
+    <node x="2396.462326954953" y="2063.437865980766">org.cswteams.ms3.entity.scocciature.ContestoScocciatura</node>
+    <node x="3835.6132989939906" y="763.4850888458643">org.cswteams.ms3.control.login.ControllerLogin</node>
+    <node x="1902.4841293687073" y="2837.6029109085835">org.cswteams.ms3.enums.RuoloEnum</node>
+    <node x="427.3212870248648" y="1670.6661455402214">org.cswteams.ms3.control.vincoli.IControllerVincolo</node>
+    <node x="4927.490455709401" y="2145.435888063638">org.cswteams.ms3.entity.AssegnazioneTurno</node>
+    <node x="823.2774319596925" y="1592.759726055644">org.cswteams.ms3.entity.vincoli.ConfigVincoloMaxPeriodoConsecutivo</node>
+    <node x="5607.778915427693" y="809.8981247259433">org.cswteams.ms3.exception.IllegalAssegnazioneTurnoException</node>
+    <node x="2245.554564020368" y="2427.4245279386873">org.cswteams.ms3.dao.RuoloNumeroDao</node>
+    <node x="867.575583190802" y="2054.1339629445965">org.cswteams.ms3.control.utils.RispostaViolazioneVincoli</node>
+    <node x="2886.8829787313216" y="2421.7629030150706">org.cswteams.ms3.control.utils.ConvertitoreData</node>
+    <node x="7719.44642182633" y="685.1435077069316">org.cswteams.ms3.dto.GiustificazioneForzaturaVincoliDTO</node>
+    <node x="8108.5510548702405" y="588.3078665425892">org.cswteams.ms3.control.giustificaForzatura.IControllerGiustificaForzatura</node>
+    <node x="5979.138181198927" y="3169.0422346743344">org.cswteams.ms3.entity.Turno</node>
+    <node x="2198.987974218545" y="1331.2097968657868">org.cswteams.ms3.control.preferenze.CalendarServiceManager</node>
+    <node x="5858.722814530128" y="2629.526393067583">org.cswteams.ms3.dao.CategorieDao</node>
+    <node x="3523.8169527122736" y="1574.1418619221354">org.cswteams.ms3.dao.GiustificazioneFozaturaDao</node>
+    <node x="-158.06053566113405" y="1200.5028961382832">org.cswteams.ms3.entity.scocciature.ScocciaturaAssegnazioneUtente</node>
+    <node x="367.9847939569854" y="1247.955826173189">org.cswteams.ms3.control.categorieUtente.IControllerCategorieUtente</node>
+    <node x="5982.870766440567" y="2200.889626609968">org.cswteams.ms3.enums.MansioneEnum</node>
+    <node x="6150.48675083179" y="2775.1813860281463">org.cswteams.ms3.dao.TurnoDao</node>
+    <node x="7137.978622535311" y="639.2474341491811">org.cswteams.ms3.control.assegnazioneTurni.ControllerAssegnazioniTurni</node>
+    <node x="5995.941041105189" y="1386.8862285477953">org.cswteams.ms3.exception.AssegnazioneTurnoException</node>
+    <node x="1944.1491674214597" y="2320.754303138696">org.cswteams.ms3.exception.DatabaseException</node>
+    <node x="2355.123506619004" y="3077.0486289910077">org.cswteams.ms3.entity.Servizio</node>
+    <node x="5363.595511902977" y="3079.017659781912">org.cswteams.ms3.dto.HolidayDTO</node>
+    <node x="2947.3673310034324" y="1167.2013791758147">org.cswteams.ms3.control.servizi.ControllerServizi</node>
+    <node x="8935.5649467258" y="1298.4277948677493">org.cswteams.ms3.dto.RegistraAssegnazioneTurnoDTO</node>
+    <node x="6728.584465173724" y="2197.9746632482174">org.cswteams.ms3.dto.DesiderataDTO</node>
+    <node x="2952.193972808117" y="321.9417562117799">org.cswteams.ms3.entity.vincoli.VincoloAssegnazioneTurnoTurno</node>
+    <node x="8648.079570022135" y="1045.3051733422049">org.cswteams.ms3.control.preferenze.IHolidayController</node>
+    <node x="8559.668456244819" y="2317.342950036619">org.cswteams.ms3.enums.TipoCategoriaEnum</node>
+    <node x="7828.228732790962" y="2273.3694377738584">org.cswteams.ms3.control.preferenze.CalendarSetting</node>
+    <node x="3350.6602740208873" y="1317.5047593082352">org.cswteams.ms3.control.utils.MappaGiustificazioneForzaturaVincoli</node>
+    <node x="1901.1877166911383" y="1613.55545655269">org.cswteams.ms3.control.utente.ControllerUtente</node>
+    <node x="6263.050857998074" y="356.44431409885726">org.cswteams.ms3.entity.vincoli.VincoloNumeroDiRuoloTurno</node>
+    <node x="2911.1963764338634" y="3132.2823556657722">org.cswteams.ms3.entity.Holiday</node>
+    <node x="3135.5702239963466" y="594.2220648601581">org.cswteams.ms3.exception.ViolatedVincoloAssegnazioneTurnoTurnoException</node>
+    <node x="1388.5146181961368" y="2439.296236648941">org.cswteams.ms3.control.utils.MappaSchedulo</node>
+    <node x="4469.575390418953" y="-13.60150681266316">org.cswteams.ms3.entity.vincoli.VincoloCategorieUtenteTurno</node>
+    <node x="933.2509874323478" y="1242.4656838291958">org.cswteams.ms3.exception.ViolatedVincoloCategorieUtenteTurnoException</node>
+    <node x="6854.882599224338" y="1254.8557273295137">org.cswteams.ms3.control.utils.MappaCategoriePerTipo</node>
+    <node x="4466.255031595376" y="2481.6875252493005">org.cswteams.ms3.dao.CategoriaUtenteDao</node>
+    <node x="2312.003424058198" y="1709.2910967911073">org.cswteams.ms3.rest.CambiaPasswordRestEndpoint</node>
+    <node x="1367.5620424308468" y="1915.483430616542">org.cswteams.ms3.control.utils.GiorniDellaSettimanaBitMask</node>
+    <node x="8418.270634717424" y="2911.0674408963155">org.cswteams.ms3.dao.VincoloDao</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="org.cswteams.ms3.entity.vincoli.VincoloMaxPeriodoConsecutivo" target="org.cswteams.ms3.entity.vincoli.VincoloAssegnazioneTurnoTurno" relationship="GENERALIZATION">
+      <point x="2.1717321578762494E-4" y="-195.00004275450965" />
+      <point x="3840.414" y="38.0" />
+      <point x="2620.0" y="38.0" />
+      <point x="2620.0" y="799.0" />
+      <point x="3118.0699999999997" y="799.0" />
+      <point x="-80.62397280811683" y="67.00024378822013" />
+    </edge>
+    <edge source="org.cswteams.ms3.entity.vincoli.VincoloNumeroDiRuoloTurno" target="org.cswteams.ms3.entity.vincoli.Vincolo" relationship="GENERALIZATION">
+      <point x="-173.99985799807382" y="-45.68031409885725" />
+      <point x="6219.99" y="377.764" />
+      <point x="6219.99" y="416.0" />
+      <point x="5499.563" y="416.0" />
+      <point x="-3.2124068502525915E-4" y="195.0001696892994" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.assegnazioneTurni.ControllerAssegnazioniTurni" target="org.cswteams.ms3.control.assegnazioneTurni.IControllerAssegnazioneTurni" relationship="REALIZATION">
+      <point x="-253.0" y="-137.5" />
+      <point x="213.24037278388187" y="65.5" />
+    </edge>
+    <edge source="org.cswteams.ms3.exception.ViolatedVincoloCategorieUtenteTurnoException" target="org.cswteams.ms3.exception.ViolatedConstraintException" relationship="GENERALIZATION">
+      <point x="1.2567652277084562E-5" y="-43.9996838291957" />
+      <point x="1153.751" y="304.442" />
+      <point x="3618.414" y="304.442" />
+      <point x="3618.414" y="733.0" />
+      <point x="3103.0699999999997" y="733.0" />
+      <point x="3103.0699999999997" y="691.7429999999999" />
+      <point x="151.00017154373722" y="4.757458121957825E-4" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.categorie.ControllerCategorie" target="org.cswteams.ms3.control.categorie.IControllerCategorie" relationship="REALIZATION">
+      <point x="-188.0" y="0.0" />
+      <point x="8077.94642182633" y="1303.2597788661437" />
+      <point x="8077.94642182633" y="518.6394327034883" />
+      <point x="188.0" y="0.0" />
+    </edge>
+    <edge source="org.cswteams.ms3.exception.ViolatedVincoloAssegnazioneTurnoTurnoException" target="org.cswteams.ms3.exception.ViolatedConstraintException" relationship="GENERALIZATION">
+      <point x="-2.2399634667635837E-4" y="53.999935139841924" />
+      <point x="3362.0699999999997" y="733.0" />
+      <point x="3103.0699999999997" y="733.0" />
+      <point x="3103.0699999999997" y="691.7429999999999" />
+      <point x="151.00017154373722" y="4.757458121957825E-4" />
+    </edge>
+    <edge source="org.cswteams.ms3.entity.vincoli.VincoloMaxOrePeriodo" target="org.cswteams.ms3.entity.vincoli.VincoloAssegnazioneTurnoTurno" relationship="GENERALIZATION">
+      <point x="-4.0678978098185326E-4" y="-172.0003898833391" />
+      <point x="1591.7350000000001" y="799.0" />
+      <point x="3118.0699999999997" y="799.0" />
+      <point x="-80.62397280811683" y="67.00024378822013" />
+    </edge>
+    <edge source="org.cswteams.ms3.entity.scocciature.ScocciaturaDesiderata" target="org.cswteams.ms3.entity.scocciature.Scocciatura" relationship="GENERALIZATION">
+      <point x="-4.532789284894534E-4" y="137.5004540983568" />
+      <point x="2929.992" y="1133.0" />
+      <point x="2497.0029999999997" y="1133.0" />
+      <point x="3.01649678931426E-4" y="126.00035963010893" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.giustificaForzatura.ControllerGiustificaForzatura" target="org.cswteams.ms3.control.giustificaForzatura.IControllerGiustificaForzatura" relationship="REALIZATION">
+      <point x="-25.9488311283676" y="-103.0" />
+      <point x="0.0" y="54.0" />
+    </edge>
+    <edge source="org.cswteams.ms3.entity.vincoli.VincoloAssegnazioneTurnoTurno" target="org.cswteams.ms3.entity.vincoli.Vincolo" relationship="GENERALIZATION">
+      <point x="2.7191883191335364E-5" y="67.00024378822013" />
+      <point x="3198.694" y="473.442" />
+      <point x="4100.678" y="473.442" />
+      <point x="4100.678" y="132.0" />
+      <point x="5335.5" y="132.0" />
+      <point x="5335.5" y="416.0" />
+      <point x="5499.563" y="416.0" />
+      <point x="-3.2124068502525915E-4" y="195.0001696892994" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.login.ControllerLogin" target="org.cswteams.ms3.control.login.IControllerLogin" relationship="REALIZATION">
+      <point x="148.0" y="0.0" />
+      <point x="4491.808252127132" y="820.4850888458643" />
+      <point x="0.0" y="-31.0" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.scheduler.ControllerScheduler" target="org.cswteams.ms3.control.scheduler.IControllerScheduler" relationship="REALIZATION">
+      <point x="262.0" y="180.41624490179277" />
+      <point x="-262.0" y="17.906645572289676" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.preferenze.CalendarServiceManager" target="org.cswteams.ms3.control.preferenze.ICalendarServiceManager" relationship="REALIZATION">
+      <point x="11.629781252175007" y="-103.0" />
+      <point x="0.0" y="54.0" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.desiderata.ControllerDesiderata" target="org.cswteams.ms3.control.desiderata.IControllerDesiderata" relationship="REALIZATION">
+      <point x="229.50000000000023" y="5.559086319867248" />
+      <point x="3759.571663867158" y="945.8515285786723" />
+      <point x="-119.10637288887165" y="77.0" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.categorieUtente.ControllerCategorieUtente" target="org.cswteams.ms3.control.categorieUtente.IControllerCategorieUtente" relationship="REALIZATION">
+      <point x="-251.5" y="-141.5" />
+      <point x="251.5" y="72.70887567487853" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.vincoli.ControllerVincolo" target="org.cswteams.ms3.control.vincoli.IControllerVincolo" relationship="REALIZATION">
+      <point x="0.0" y="-103.0" />
+      <point x="64.3708200582139" y="1724.6661455402214" />
+      <point x="-160.5" y="0.0" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.utente.ControllerUtente" target="org.cswteams.ms3.control.utente.IControllerUtente" relationship="REALIZATION">
+      <point x="-8.01749305821943" y="-80.0" />
+      <point x="0.0" y="54.0" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.preferenze.HolidayController" target="org.cswteams.ms3.control.preferenze.IHolidayController" relationship="REALIZATION">
+      <point x="104.97986522191513" y="-103.0" />
+      <point x="0.0" y="77.0" />
+    </edge>
+    <edge source="org.cswteams.ms3.exception.NotEnoughFeasibleUsersException" target="org.cswteams.ms3.exception.UnableToBuildScheduleException" relationship="GENERALIZATION">
+      <point x="-45.245093653454205" y="-31.0" />
+      <point x="220.5" y="42.5" />
+    </edge>
+    <edge source="org.cswteams.ms3.entity.scocciature.ScocciaturaVacanza" target="org.cswteams.ms3.entity.scocciature.Scocciatura" relationship="GENERALIZATION">
+      <point x="178.50005406627622" y="1.7330924578118356E-4" />
+      <point x="2341.003" y="1048.778" />
+      <point x="2341.003" y="1133.0" />
+      <point x="2497.0029999999997" y="1133.0" />
+      <point x="3.01649678931426E-4" y="126.00035963010893" />
+    </edge>
+    <edge source="org.cswteams.ms3.entity.vincoli.VincoloUbiquità" target="org.cswteams.ms3.entity.vincoli.VincoloAssegnazioneTurnoTurno" relationship="GENERALIZATION">
+      <point x="-2.3098020028555766E-4" y="-43.999818738479064" />
+      <point x="6060.99" y="-31.101999999999975" />
+      <point x="2937.0" y="-31.101999999999975" />
+      <point x="2937.0" y="38.0" />
+      <point x="2620.0" y="38.0" />
+      <point x="2620.0" y="799.0" />
+      <point x="3118.0699999999997" y="799.0" />
+      <point x="-80.62397280811683" y="67.00024378822013" />
+    </edge>
+    <edge source="org.cswteams.ms3.exception.ViolatedVincoloRuoloNumeroException" target="org.cswteams.ms3.exception.ViolatedConstraintException" relationship="GENERALIZATION">
+      <point x="10.859092451148172" y="42.499550947892004" />
+      <point x="6327.555" y="1639.4299999999998" />
+      <point x="4658.011" y="1639.4299999999998" />
+      <point x="4658.011" y="733.0" />
+      <point x="3103.0699999999997" y="733.0" />
+      <point x="3103.0699999999997" y="691.7429999999999" />
+      <point x="151.00017154373722" y="4.757458121957825E-4" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.turni.ControllerTurni" target="org.cswteams.ms3.control.turni.IControllerTurni" relationship="REALIZATION">
+      <point x="-162.5" y="-18.685867396479004" />
+      <point x="162.5" y="0.0" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.cambiaPassword.ControllerPassword" target="org.cswteams.ms3.control.cambiaPassword.IControllerPassword" relationship="REALIZATION">
+      <point x="140.0" y="-8.187136814824044" />
+      <point x="-140.0" y="0.0" />
+    </edge>
+    <edge source="org.cswteams.ms3.entity.vincoli.VincoloTipologieTurniContigue" target="org.cswteams.ms3.entity.vincoli.VincoloAssegnazioneTurnoTurno" relationship="GENERALIZATION">
+      <point x="3.073392250598772E-4" y="194.9998348561785" />
+      <point x="2363.934" y="799.0" />
+      <point x="3118.0699999999997" y="799.0" />
+      <point x="-80.62397280811683" y="67.00024378822013" />
+    </edge>
+    <edge source="org.cswteams.ms3.entity.vincoli.VincoloCategorieUtenteTurno" target="org.cswteams.ms3.entity.vincoli.Vincolo" relationship="GENERALIZATION">
+      <point x="-3.904189534296165E-4" y="55.499506812663185" />
+      <point x="4684.075" y="132.0" />
+      <point x="5335.5" y="132.0" />
+      <point x="5335.5" y="416.0" />
+      <point x="5499.563" y="416.0" />
+      <point x="-3.2124068502525915E-4" y="195.0001696892994" />
+    </edge>
+    <edge source="org.cswteams.ms3.entity.scocciature.ScocciaturaAssegnazioneUtente" target="org.cswteams.ms3.entity.scocciature.Scocciatura" relationship="GENERALIZATION">
+      <point x="227.99953566113413" y="58.453103861716954" />
+      <point x="1075.751" y="1465.4560000000001" />
+      <point x="1075.751" y="1362.966" />
+      <point x="2181.4880000000003" y="1362.966" />
+      <point x="2181.4880000000003" y="1133.0" />
+      <point x="2497.0029999999997" y="1133.0" />
+      <point x="3.01649678931426E-4" y="126.00035963010893" />
+    </edge>
+    <edge source="org.cswteams.ms3.control.servizi.ControllerServizi" target="org.cswteams.ms3.control.servizi.IControllerServizi" relationship="REALIZATION">
+      <point x="-153.0" y="-27.199639093443693" />
+      <point x="153.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.2706498069880234" showDependencies="false" x="3956.7366411684566" y="778.8226200722283" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
