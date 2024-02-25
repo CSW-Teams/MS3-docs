@@ -2,6 +2,7 @@ org.cswteams.ms3
 org.cswteams.ms3.config
 org.cswteams.ms3.control.actors
 org.cswteams.ms3.control.concreteShift
+org.cswteams.ms3.control.conditions
 org.cswteams.ms3.control.doctor
 org.cswteams.ms3.control.giustificaForzatura
 org.cswteams.ms3.control.login
@@ -23,9 +24,9 @@ org.cswteams.ms3.control.utils
 org.cswteams.ms3.control.vincoli
 org.cswteams.ms3.dao
 org.cswteams.ms3.dto
-org.cswteams.ms3.dto.category
 org.cswteams.ms3.dto.changePassword
 org.cswteams.ms3.dto.concreteshift
+org.cswteams.ms3.dto.condition
 org.cswteams.ms3.dto.holidays
 org.cswteams.ms3.dto.login
 org.cswteams.ms3.dto.medicalDoctor
@@ -35,6 +36,7 @@ org.cswteams.ms3.dto.registration
 org.cswteams.ms3.dto.shift
 org.cswteams.ms3.dto.showscheduletoplanner
 org.cswteams.ms3.dto.specialization
+org.cswteams.ms3.dto.specializations
 org.cswteams.ms3.dto.systemactor
 org.cswteams.ms3.dto.user
 org.cswteams.ms3.dto.userprofile
@@ -52,6 +54,8 @@ org.cswteams.ms3.jpa_constraints.validant
 org.cswteams.ms3.rest
 org.cswteams.ms3.utils
 org.cswteams.ms3.utils.admissible_values
+org.cswteams.ms3.utils.date_parts
 org.cswteams.ms3.utils.day_and_month
+org.cswteams.ms3.utils.must_be_different
 org.cswteams.ms3.utils.start_end_day_month
 org.cswteams.ms3.utils.temporal_consistency
