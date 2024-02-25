@@ -6,7 +6,11 @@ All documentation about MS3 that is not concurrently editable in a cloud service
 - ClassDiagrams :
 
   Contiene i diagrammi delle classi con le _Key Abstractions_ del sistema, creati dal team _Sprintfloyd_.
+  
+- Confronto Scheduler :
 
+  contiene la relazione degli esperimenti fatti per confrontare lo scheduler implementato dal team scrummastic rispetto a quello implementato dal team spintfloyd
+  
 - Database :
 
   Contiene un diagramma E-R con le entità principali del sistema. Nato a seguito dell'azione di refactoring del team _Scrumtastic_.
