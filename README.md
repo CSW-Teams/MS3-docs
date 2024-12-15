@@ -31,6 +31,10 @@ All documentation about MS3 that is not concurrently editable in a cloud service
 
   Contiene i `pptx` degli sprint del team _Scrumtastic_.
 
+- Shifts Happen :
+
+  Contiene i `pptx` degli sprint del team _ShiftsHappen_.
+
 - spring_AOP :
 
   Contiene una breve guida di sintesi sull'uso di _Spring AOP_ e una spiegazione del funzionamento dell'annotazione `@Validant`.
