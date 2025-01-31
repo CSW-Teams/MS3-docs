@@ -19,6 +19,10 @@ All documentation about MS3 that is not concurrently editable in a cloud service
 
   Contiene la _Javadoc_ del codice del backend del sistema, consultabile facilmente da [qui](https://csw-teams.github.io/).
 
+- Multi-Tenancy :
+
+  Contiene la documentazione e l'analisi sulle soluzioni di multi-tenancy adottate nel progetto, inclusa la scelta dell'architettura più adatta per la segregazione delle informazioni tra i tenant.
+
 - jpa_custom_constraints :
 
   Contiene una guida per creare custom constraint che seguano le regole di validazione coerenti con la specifica di _JPA_, ed un elenco di tutti i constraint utilizzati (ed utilizzabili) nell'applicazione.
