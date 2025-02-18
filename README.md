@@ -3,6 +3,10 @@ All documentation about MS3 that is not concurrently editable in a cloud service
 
 ## Indice dei contenuti
 
+- Authorization :
+
+  Contiene la documentazione relativa all'API authorization del progetto, includendo dettagli su autenticazione, autorizzazione e gestione degli accessi.
+
 - ClassDiagrams :
 
   Contiene i diagrammi delle classi con le _Key Abstractions_ del sistema, creati dal team _Sprintfloyd_.
@@ -18,6 +22,10 @@ All documentation about MS3 that is not concurrently editable in a cloud service
 - JavaDocs :
 
   Contiene la _Javadoc_ del codice del backend del sistema, consultabile facilmente da [qui](https://csw-teams.github.io/).
+
+- Multi-Tenancy :
+
+  Contiene la documentazione e l'analisi sulle soluzioni di multi-tenancy adottate nel progetto, inclusa la scelta dell'architettura più adatta per la segregazione delle informazioni tra i tenant.
 
 - jpa_custom_constraints :
 
