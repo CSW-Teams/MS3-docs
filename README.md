@@ -1,5 +1,5 @@
 # 📝 MS3-docs
-All documentation about [MS3](https://github.com/CSW-Teams/MS3) that is not concurrently editable in a cloud service or MS Teams
+All documentation about [MS3](https://github.com/CSW-Teams/MS3) that is not concurrently editable in a cloud service or MS Teams.
 
 ## Indice dei contenuti
 
@@ -39,7 +39,7 @@ All documentation about [MS3](https://github.com/CSW-Teams/MS3) that is not conc
 
   Contiene i `pptx` degli sprint del team _Scrumtastic_.
 
-- Shifts Happen :
+- ShiftsHappen :
 
   Contiene i `pptx` degli sprint del team _ShiftsHappen_.
 
