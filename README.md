@@ -1,7 +1,7 @@
 # 📝 MS3-docs
 All documentation about [MS3](https://github.com/CSW-Teams/MS3) that is not concurrently editable in a cloud service or MS Teams.
 
-## Indice dei contenuti
+## 📚 Indice dei contenuti
 
 - **_Authorization_** :
 
