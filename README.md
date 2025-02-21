@@ -35,7 +35,7 @@ All documentation about [MS3](https://github.com/CSW-Teams/MS3) that is not conc
 
   Contiene i `pptx` degli sprint del team _ShiftsHappen_.
 
-  - **_Use Case Diagrams_** :
+- **_Use Case Diagrams_** :
 
   Diagramma dei casi d'uso dell'applicazione _MS3_.
 
