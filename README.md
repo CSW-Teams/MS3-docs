@@ -3,10 +3,6 @@ All documentation about [MS3](https://github.com/CSW-Teams/MS3) that is not conc
 
 ## 📚 Indice dei contenuti
 
-- **_Authorization_** :
-
-  Contiene la documentazione relativa all'_API authorization_ del progetto, includendo dettagli su autenticazione, autorizzazione e gestione degli accessi.
-
 - **_ClassDiagrams_** :
 
   Contiene i diagrammi delle classi con le _Key Abstractions_ del sistema, creati dal team _Sprintfloyd_.
@@ -30,6 +26,10 @@ All documentation about [MS3](https://github.com/CSW-Teams/MS3) that is not conc
 - **_Scrumtastic_** :
 
   Contiene i `pptx` degli sprint del team _Scrumtastic_.
+
+- **_Security_** :
+
+  Contiene la documentazione relativa alla sicurezza del progetto, incluse le specifiche delle _API Authorizations_ e il _Risk Assessment Report_.
 
 - **_ShiftsHappen_** :
 
