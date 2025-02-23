@@ -23,17 +23,15 @@ All documentation about [MS3](https://github.com/CSW-Teams/MS3) that is not conc
 
   Contiene la documentazione e l'analisi sulle soluzioni di _Multi-Tenancy_ adottate nel progetto, inclusa la scelta dell'architettura più adatta per la segregazione delle informazioni tra i tenant.
 
-- **_Scrumtastic_** :
-
-  Contiene i `pptx` degli sprint del team _Scrumtastic_.
-
 - **_Security_** :
 
   Contiene la documentazione relativa alla sicurezza del progetto, incluse le specifiche delle _API Authorizations_ e il _Risk Assessment Report_.
 
-- **_ShiftsHappen_** :
+- **_teams_sprint_reviw_** :
 
-  Contiene i `pptx` degli sprint del team _ShiftsHappen_.
+  Contiene i `pptx` divisi per team.
+  - **_Scrumtastic_**: Contiene i `pptx` degli sprint del team _Scrumtastic_.
+  - **_ShiftsHappen_**: Contiene i `pptx` degli sprint del team _ShiftsHappen_.
 
 - **_Use Case Diagrams_** :
 
