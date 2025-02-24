@@ -27,11 +27,11 @@ All documentation about [MS3](https://github.com/CSW-Teams/MS3) that is not conc
 
   Contiene la documentazione relativa alla sicurezza del progetto, incluse le specifiche delle _API Authorizations_ e il _Risk Assessment Report_.
 
-- **_teams_sprint_reviw_** :
+- **_teams_sprint_review_** :
 
   Contiene i `pptx` divisi per team.
-  - **_Scrumtastic_**: Contiene i `pptx` degli sprint del team _Scrumtastic_.
-  - **_ShiftsHappen_**: Contiene i `pptx` degli sprint del team _ShiftsHappen_.
+  - **Scrumtastic**: Contiene i `pptx` degli sprint del team _Scrumtastic_.
+  - **ShiftsHappen**: Contiene i `pptx` degli sprint del team _ShiftsHappen_.
 
 - **_Use Case Diagrams_** :
 
